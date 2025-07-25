@@ -1,6 +1,6 @@
 # MedSummRAG
 This repository contains the code for our BioNLP 2025 paper:
-"MedSummRAG: Retrieval-Augmented Generation for Medical Text Summarization".
+"MedSummRAG: Retrieval-Augmented Generation for Medical Summarization".
 
 ## Overview
 MedSummRAG is a retrieval-augmented generation (RAG) framework designed to improve medical text summarization. It integrates external domain-specific knowledge by:
